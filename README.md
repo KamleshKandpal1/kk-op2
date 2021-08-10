@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Kamlesh Kandpal.
 - 👀 I’m interested in web develoment / designing.
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT.
-- 💞️ I’m looking to collaborate on any project helps me to grow.
+- 💞️ I’m looking to collaborate on any project which helps me to grow.
 - 📫 How to reach me kkandpal06@gmail.com
 
 <!---
